@@ -1,16 +1,33 @@
-## Hi there 👋
+😸
+# Bienvenue sur mon profil GitHub
 
-<!--
-**nagas-monk/nagas-monk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Developeur Web et Web Mobile en formation au sein de l'IMTS
+*Bienvenue dans mon univers de developeur web
 
-Here are some ideas to get you started:
+## 🐱‍🏍 Actuellement en formation **Developeur Web et Web Mobile (dwwm)**, je develope mes competences dans la creation de sites et d'applications web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+j'aime apprendre, expérimenter et relever de nouveau defis techniques.
+
+-En formation DWWM
+-En formation web front-end et back-end
+-En constante progression
+-Objectif : devenir une star du code
+
+## Mes compétences :
+**Languages et technologies**
+- HTML 5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- UI et UX design
+
+## Mes projects
+| Projet | Description |
+|---|---|
+|[dwwm-tp](https://github.com/nagas-monk/dwwm-tp) | Traveaux pratiques de la formation |
+
+## Mes objectifs 
+- Approfondir mes connaissances en JavaScript
+
+*Merci de visiter mon profil Github*
