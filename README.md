@@ -2,7 +2,7 @@
 # Bienvenue sur mon profil GitHub
 
 ## Developeur Web et Web Mobile en formation au sein de l'IMTS
-*Bienvenue dans mon univers de developeur web
+*Bienvenue dans mon univers de developeur web*
 
 ## 🐱‍🏍 Actuellement en formation **Developeur Web et Web Mobile (dwwm)**, je develope mes competences dans la creation de sites et d'applications web.
 
