@@ -8,10 +8,10 @@
 
 j'aime apprendre, expérimenter et relever de nouveau defis techniques.
 
--En formation DWWM
--En formation web front-end et back-end
--En constante progression
--Objectif : devenir une star du code
+- En formation DWWM
+- En formation web front-end et back-end
+- En constante progression
+- Objectif : devenir une star du code
 
 ## Mes compétences :
 **Languages et technologies**
@@ -21,7 +21,7 @@ j'aime apprendre, expérimenter et relever de nouveau defis techniques.
 - Git
 - GitHub
 - UI et UX design
-
+- Bilingue Anglais
 ## Mes projects
 | Projet | Description |
 |---|---|
